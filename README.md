@@ -75,16 +75,14 @@ plt.show()
 
 ### OUTPUT:
 #### VISUAL REPRESENTATION OF DATASET:
-
+![output](/3.1.png)
 #### AUTO CORRELATION:
-![auto_correlation](image2.png)
-![VALUE_CORRELATION](image3.png)
+![output()](/3.2.png)
 
 #### VALUES OF MAE,RMSE,VARIANCE:
-![MEAN](image4.png)
-
+![output()](/3.3.png)
 #### AUTOREGRESSIVE MODEL FOR CONSUMPTION PREDICTION
-![GRAPH](image5.png)
+![output()](/3.4.png)
 
 ### RESULT: 
 Thus, The python code for implementing auto correlation for power consumption is successfully executed.
